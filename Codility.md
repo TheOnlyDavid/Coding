@@ -1,4 +1,4 @@
-# Codily
+# Codility
 
 ## Binary gap
 
